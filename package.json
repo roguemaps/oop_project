@@ -1,0 +1,17 @@
+{
+  "name": "oop_proj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jesse",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "shortid": "^2.2.14"
+  }
+}
